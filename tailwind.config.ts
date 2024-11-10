@@ -24,8 +24,8 @@ const config: Config = {
       Amithen: ["Amithen", "sans-serif"],
       Pockota_bold: ["Pockota-Bold"],
       Montserrat: ["Montserrat", "sans-serif"],
-      Montserrat_SemiBold: ["Montserrat_SemiBold"],
-      Pockota_Boldltalic: ["Pockota-Boldltalic"]
+      Montserrat_SemiBold: ["Montserrat-SemiBold"],
+      Pockota_Boldltalic: ["Pockota-bold"]
     },
   },
   variants: {
