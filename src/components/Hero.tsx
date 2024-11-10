@@ -13,7 +13,7 @@ export const Hero = () => {
               <h1 className="px-4 sm:px-16 lg:px-32 text-2xl sm:text-3xl md:text-4xl xl:text-center font-Pockota_bold leading-snug tracking-tight text-gray-800 dark:text-white">
                 Somos La
               </h1>
-              <p className="px-4 sm:px-8 lg:px-8 py-1 text-5xl sm:text-7xl md:text-9xl lg:text-10xl xl:text-11xl xl:text-center leading-normal text-red-600 font-Amithen dark:text-red-600">
+              <p className="px-4 sm:px-8 lg:px-8 py-1 text-5xl sm:text-7xl md:text-9xl lg:text-10xl xl:text-11xl xl:text-center leading-normal text-red-600 font-myfonts dark:text-red-600">
                 Botana
               </p>
               <h1 className="px-4 sm:px-16 lg:px-24 text-2xl sm:text-3xl md:text-4xl xl:text-center font-Pockota_bold leading-snug tracking-tight text-gray-800 dark:text-white">
