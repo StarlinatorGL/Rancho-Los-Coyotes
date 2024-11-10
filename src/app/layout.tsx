@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import localfont from "next/font/local"
 import { ThemeProvider } from "next-themes";
 import "./globals.css";
 
@@ -8,6 +9,16 @@ import { Footer } from "@/components/Footer";
 import { PopupWidget } from "@/components/PopupWidget";
 
 const inter = Inter({ subsets: ["latin"] });
+
+const myfonts = localfont({
+  src: [
+    {
+      path: "../..public/fonts/Amithen.ttf",
+      weight: "700",
+    }
+  ],
+  variable: "--font-Amithen",
+}) 
 
 export const metadata: Metadata = {
   title: "Rancho Los Coyotes",
