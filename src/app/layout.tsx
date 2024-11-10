@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 const myfonts = localfont({
   src: [
     {
-      path: "../..public/fonts/Amithen.ttf",
+      path: "../../public/fonts/Amithen.ttf",
       weight: "700",
     }
   ],
